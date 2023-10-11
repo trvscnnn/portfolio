@@ -1,3 +1,5 @@
+[Back](/Top) 
+
 # VI. What Are You Waiting For?
 
 Well, congratulations. You’ve done it. You did everything right. You have rendered yourself up for judgment, brought your son to the top of the mountain and presented the sacrificial knife to the quiet eye above. Your devotion can be neither denied nor renounced. If there’s any justice in the universe, the job should be yours! I’ll bet you’re feeling incredible. Don't worry, you should! You've come a long way from where you were when you began, and surely that must count for something.
@@ -41,3 +43,5 @@ If you get the job, then everything has gone according to plan. If you do not ge
 You are part of something older now. You are a seeker sent out to find, as the first seekers were, somewhere that life is a little easier and you have something to keep your hands busy. It either is or is not out there. You either will or will not find it. This paradise once found either will be enough or it will not, and you will begin your search anew. If you love what you do, you will never work a day in your life, but nothing is guaranteed. All that is certain is that there is nobility in choosing to look. The world is all before us, and hand in hand, with wandering steps and slow, through it we take our solitary way.
 
 I hope that's helped.
+
+[Back](/Top) 

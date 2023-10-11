@@ -1,3 +1,5 @@
+[Back](/Top) 
+
 # IV. On whose authority?
 
 **CHAINS THEMSELVES ARE NOT IGNOBLE, IT IS THROUGH USE THAT THEY TAKE ON A MORAL CHARACTER.**
@@ -58,3 +60,5 @@ Remind them of their innate goodness by picking up a photo of their children (mo
 ### Invent a referee
 
 If you’re really painted into a corner, invent a referee yourself. Make sure that you have a thoroughly fleshed out characterization. Employers are wise and they’ll sniff out a poorly planned mirage before you’ve even had time to describe their [labyrinthine golden ringlets](V.md).
+
+[Back](/Top) 

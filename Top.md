@@ -1,16 +1,19 @@
-# Creative Writing
+# Online Portfolio of Travis Cannon
+
+>Thanks for visiting my portfolio. Find here a selection of some of my writing across a few different formats, genres and registers. Each section has a brief introduction, the content and then a Lessons Learned section where I've recorded what was good (rose), what was difficult (thorn) and what I would do differently approaching the project again (seed). I hope you enjoy what you find here!
 
 ## WORK! Everybody does it, why can't you? (2018)
 Read this for: an idea of how I write satire, how I mix sincerity and humour, how I explore a character's worldview, an idea of how job-searching might look to an NPC in a FromSoftware game.
 
 A six-part series of career advice for job-seekers commissioned by the late Brunch Club Comedy Blog, a blog run by an independent comedy production company. Emphasizes the importance of authenticity, being one's self, understanding one's self as something only temporarily granted by a high and unknowable authority, ignoring pro-canine propaganda, and most importantly being true to one's heart. Tonally, one should consider the tongue not just in the cheek but having started a settlement in the cheek and founded a bizarre arcane religion there.
+
 ### Contents
 - [I. Who do you think you are?](/WEDIWCY/I.md)
 - [II. You think you're better than everybody else?](</WEDIWCY/II.md>)
 - [III. What have you done that's so special?](</WEDIWCY/III.md>)
 - [IV. On whose authority?](</WEDIWCY/IV.md>)
 - [V. Who do you think you're talking to?](</WEDIWCY/V.md>)
-- [VI. What are you waiting for?](/WEDIWCY/VI.md)
+- [VI. What are you waiting for?](/WEDIWCY/VI.md)>
 
 >### Lessons learned
 >Rose: This was a really gratifying project to work on. I was given a long leash to write whatever I wanted, and the sense of being trusted by the editors of the blog was very empowering even if the stakes weren't especially high. It was very creatively invigorating and stirred a strong desire to build an entire world around the strange, broken narrator of the pieces, but sadly there were bills to pay!
@@ -18,7 +21,8 @@ A six-part series of career advice for job-seekers commissioned by the late Brun
 >**Thorn**: Something I regret about this project is that I didn't have the resources to do quite as much multi-media trickery and hijinks as I would have liked to. I initially envisioned video components, audiolog-style guided meditations and (believe it or not) a painted comic portion. I knew that I wouldn't be able to execute at the level of quality that I wanted to with the time and resources that I had available though, so much of the vision was scaled back.
 >
 >**Seed**: Given the opportunity to do it again, I'd like to have come at it more holistically instead of writing it on a per-post basis. The serialized format did produce some productive contraints, but I wonder how it might have gone differently had I a cleared vision of what I wanted the whole of it to look like.
- 
+</details>
+
 ## Crystal Warriors (2020)
 **Read this for:** how I write dialogue, scene description and character relationships, some extremely scandalous puns and innuendos.
 
@@ -47,8 +51,6 @@ Let's call it an experiment in collaborative world-building. I solicited my frie
 
 ### Contents
 - [About 75 unsorted naps](/Naps/Nap%20list)
-- [My personal favourites]()
-- [Random selection]()
 
 >### Lessons learned
 >**Rose:** A real thrill and a fond memory of sharing my writing with my friends in a way that didn't feel quite so pompous as a reading or high-pressure as a stand-up performance. A great reminded that social media can be a tool for fun(!!) sometimes.
@@ -60,6 +62,15 @@ Let's call it an experiment in collaborative world-building. I solicited my frie
 ## Monologues and Character Pieces
 
 ### Contents
-- [From Where I'm Calling (2017)](/Prose/FromWhereI'mCalling) **Read this for:** A sense of my voice in a more bruisingly sincere register.
-- [Everybody Came to See the Horses (2018)]
-- [Horace at the Wedding (2019)]
+- [From Where I'm Calling (2017)](/Prose/FromWhereI'mCalling)
+- [Everybody Came to See the Horses (2018)](/Prose/Horses)
+- [Horace at the Wedding (2019)](/Prose/Horace)
+
+**Read these for:** My sense of character and idiosyncracy, flair for the dramatic and beguiling, the word 'horse' a shocking number of times.
+
+>### Lessons learned
+>**Rose:** As always, I have a blast exploring the sad little corners of someone trying to hold it together. Someone who thinks they're maintaining but simply are not. These were all very fun to perform.
+>
+>**Thorn:** As monologues the characters don't get to bounce off other personalities enough for my liking. A reminder of the positive friction of character and conflict.
+>
+>**Seed**: What does it look like when these characters have to speak to one another? I want to see more of their worlds.
