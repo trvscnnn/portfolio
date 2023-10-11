@@ -21,7 +21,6 @@ A six-part series of career advice for job-seekers commissioned by the late Brun
 >**Thorn**: Something I regret about this project is that I didn't have the resources to do quite as much multi-media trickery and hijinks as I would have liked to. I initially envisioned video components, audiolog-style guided meditations and (believe it or not) a painted comic portion. I knew that I wouldn't be able to execute at the level of quality that I wanted to with the time and resources that I had available though, so much of the vision was scaled back.
 >
 >**Seed**: Given the opportunity to do it again, I'd like to have come at it more holistically instead of writing it on a per-post basis. The serialized format did produce some productive contraints, but I wonder how it might have gone differently had I a cleared vision of what I wanted the whole of it to look like.
-</details>
 
 ## Crystal Warriors (2020)
 **Read this for:** how I write dialogue, scene description and character relationships, some extremely scandalous puns and innuendos.
