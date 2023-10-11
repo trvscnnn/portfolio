@@ -1,4 +1,5 @@
-# Online Portfolio of Travis Cannon
+# Travis Cannon
+### Writer, comic, third thing.
 
 >Thanks for visiting my portfolio. Find here a selection of some of my writing across a few different formats, genres and registers. Each section has a brief introduction, the content and then a Lessons Learned section where I've recorded what was good (rose), what was difficult (thorn) and what I would do differently approaching the project again (seed). I hope you enjoy what you find here!
 
