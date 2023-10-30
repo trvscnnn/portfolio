@@ -4,7 +4,7 @@
 >Thanks for visiting my portfolio. Find here a selection of some of my writing across a few different formats, genres and registers. Each section has a brief introduction, the content and then a Lessons Learned section where I've recorded what was good (rose), what was difficult (thorn) and what I would do differently approaching the project again (seed). I hope you enjoy what you find here!
 
 ## WORK! Everybody does it, why can't you? (2018)
-Read this for: an idea of how I write satire, how I mix sincerity and humour, how I explore a character's worldview, an idea of how job-searching might look to an NPC in a FromSoftware game.
+**Read this for:** an idea of how I write satire, how I mix sincerity and humour, how I explore a character's worldview, an idea of how job-searching might look to an NPC in a FromSoftware game.
 
 A six-part series of career advice for job-seekers commissioned by the late Brunch Club Comedy Blog, a blog run by an independent comedy production company. Emphasizes the importance of authenticity, being one's self, understanding one's self as something only temporarily granted by a high and unknowable authority, ignoring pro-canine propaganda, and most importantly being true to one's heart. Tonally, one should consider the tongue not just in the cheek but having started a settlement in the cheek and founded a bizarre arcane religion there.
 
@@ -17,7 +17,7 @@ A six-part series of career advice for job-seekers commissioned by the late Brun
 - [VI. What are you waiting for?](/WEDIWCY/VI.md)
 
 >### Lessons learned
->Rose: This was a really gratifying project to work on. I was given a long leash to write whatever I wanted, and the sense of being trusted by the editors of the blog was very empowering even if the stakes weren't especially high. It was very creatively invigorating and stirred a strong desire to build an entire world around the strange, broken narrator of the pieces, but sadly there were bills to pay!
+>**Rose**: This was a really gratifying project to work on. I was given a long leash to write whatever I wanted, and the sense of being trusted by the editors of the blog was very empowering even if the stakes weren't especially high. It was very creatively invigorating and stirred a strong desire to build an entire world around the strange, broken narrator of the pieces, but sadly there were bills to pay!
 >
 >**Thorn**: Something I regret about this project is that I didn't have the resources to do quite as much multi-media trickery and hijinks as I would have liked to. I initially envisioned video components, audiolog-style guided meditations and (believe it or not) a painted comic portion. I knew that I wouldn't be able to execute at the level of quality that I wanted to with the time and resources that I had available though, so much of the vision was scaled back.
 >
