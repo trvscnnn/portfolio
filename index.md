@@ -14,7 +14,7 @@ A six-part series of career advice for job-seekers commissioned by the late Brun
 - [III. What have you done that's so special?](/WEDIWCY/III.md)
 - [IV. On whose authority?](/WEDIWCY/IV.md)
 - [V. Who do you think you're talking to?](/WEDIWCY/V.md)
-- [VI. What are you waiting for?](/WEDIWCY/VI.md)>
+- [VI. What are you waiting for?](/WEDIWCY/VI.md)
 
 >### Lessons learned
 >Rose: This was a really gratifying project to work on. I was given a long leash to write whatever I wanted, and the sense of being trusted by the editors of the blog was very empowering even if the stakes weren't especially high. It was very creatively invigorating and stirred a strong desire to build an entire world around the strange, broken narrator of the pieces, but sadly there were bills to pay!
@@ -50,7 +50,7 @@ A considerable but productive constraint on this project was that the game was g
 Let's call it an experiment in collaborative world-building. I solicited my friends and followers on Instagram to send me descriptions of types of naps, and told them I would tell them the True Name of that nap in exchange. What resulted was an extremely fun exercise in quickly, and repeatedly improvising in writing (two fields that I'd enjoyed apart but hadn't thought about trying in combination, very Reese's Peanut Butter Cups).
 
 ### Contents
-- [About 75 unsorted naps](/Naps/Naplist)
+- [About 75 unsorted naps](/Naps/Naplist.md)
 
 >### Lessons learned
 >**Rose:** A real thrill and a fond memory of sharing my writing with my friends in a way that didn't feel quite so pompous as a reading or high-pressure as a stand-up performance. A great reminded that social media can be a tool for fun(!!) sometimes.
