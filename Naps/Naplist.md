@@ -1,4 +1,4 @@
-[Back](/index.md)
+[Back](../index.md)
 
 # Sleeper's Colloquy
 
@@ -80,4 +80,4 @@ And then I think I’ve killed my arm and have to hang it over the side of my be
 |Drunkenly napping at your kitche table while a frozen pizza burns in the oven|Coaxing the Devil from Under the Crust|
 |Messaging someone on an app and falling asleep before exchanging nudes|Plain Old-fashioned Good Luck|
 
-[Back](/index.md)
+[Back](../index.md)
