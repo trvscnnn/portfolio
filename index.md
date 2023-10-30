@@ -10,10 +10,10 @@ A six-part series of career advice for job-seekers commissioned by the late Brun
 
 ### Contents
 - [I. Who do you think you are?](/WEDIWCY/I.md)
-- [II. You think you're better than everybody else?](</WEDIWCY/II.md>)
-- [III. What have you done that's so special?](</WEDIWCY/III.md>)
-- [IV. On whose authority?](</WEDIWCY/IV.md>)
-- [V. Who do you think you're talking to?](</WEDIWCY/V.md>)
+- [II. You think you're better than everybody else?](/WEDIWCY/II.md)
+- [III. What have you done that's so special?](/WEDIWCY/III.md)
+- [IV. On whose authority?](/WEDIWCY/IV.md)
+- [V. Who do you think you're talking to?](/WEDIWCY/V.md)
 - [VI. What are you waiting for?](/WEDIWCY/VI.md)>
 
 >### Lessons learned
@@ -32,10 +32,10 @@ Written for Mindgeek’s gaming division (Nutaku) this is the scenario text for 
 
 A considerable but productive constraint on this project was that the game was going to be an asset swap of an existing game, meaning the scenario had to follow the existing arc of the base game and that the new characters would have dialogue at the same point as their analogs. This created interesting but not insurmountable challenges as I found ways to write conversations around “who’s-speaking-when” rather than “who’s-speaking-why”.  This is the reason the characters in this script retain the names of their female counterparts in the original game.
 ### Contents
-- [I. 00 - 10: Introductions through to first boss](/Crystal%20Warriors/00%20-%2010)
-- [II. 11 - 20: Meeting new friends and forging on](/Crystal%20Warriors/11%20-%2020)
-- [III. 21 - 30: Through the tundra, up the mountain](/Crystal%20Warriors/21%20-%2030)
-- [IV. 31 - 40: Wildlife, wiled life, wild life](/Crystal%20Warriors/31%20-%2040)
+- [I. 00 - 10: Introductions through to first boss](/CrystalWarriors/0010.md)
+- [II. 11 - 20: Meeting new friends and forging on](/CrystalWarriors/1120.md)
+- [III. 21 - 30: Through the tundra, up the mountain](/CrystalWarriors/2130.md)
+- [IV. 31 - 40: Wildlife, wiled life, wild life](/CrystalWarriors/3140.md)
 
 >### Lessons learned
 >**Rose:** I loved working on this project. Coming up with quick tastes of unique characters was a really enjoyable exercise and plotting a slowly growing tenderness between the central triad was a surprisngly sweet experience.
@@ -50,7 +50,7 @@ A considerable but productive constraint on this project was that the game was g
 Let's call it an experiment in collaborative world-building. I solicited my friends and followers on Instagram to send me descriptions of types of naps, and told them I would tell them the True Name of that nap in exchange. What resulted was an extremely fun exercise in quickly, and repeatedly improvising in writing (two fields that I'd enjoyed apart but hadn't thought about trying in combination, very Reese's Peanut Butter Cups).
 
 ### Contents
-- [About 75 unsorted naps](/Naps/Nap%20list)
+- [About 75 unsorted naps](/Naps/Naplist)
 
 >### Lessons learned
 >**Rose:** A real thrill and a fond memory of sharing my writing with my friends in a way that didn't feel quite so pompous as a reading or high-pressure as a stand-up performance. A great reminded that social media can be a tool for fun(!!) sometimes.
@@ -62,9 +62,9 @@ Let's call it an experiment in collaborative world-building. I solicited my frie
 ## Monologues and Character Pieces
 
 ### Contents
-- [From Where I'm Calling (2017)](/Prose/FromWhereI'mCalling)
-- [Everybody Came to See the Horses (2018)](/Prose/Horses)
-- [Horace at the Wedding (2019)](/Prose/Horace)
+- [From Where I'm Calling (2017)](/Prose/FromWhereImCalling.md)
+- [Everybody Came to See the Horses (2018)](/Prose/Horses.md)
+- [Horace at the Wedding (2019)](/Prose/Horace.md)
 
 **Read these for:** My sense of character and idiosyncracy, flair for the dramatic and beguiling, the word 'horse' a shocking number of times.
 
