@@ -1,4 +1,4 @@
-[Back](/index) 
+[Back](/index.md) 
 
 # VI. What Are You Waiting For?
 
@@ -44,4 +44,4 @@ You are part of something older now. You are a seeker sent out to find, as the f
 
 I hope that's helped.
 
-[Back](/index) 
+[Back](/index.md) 

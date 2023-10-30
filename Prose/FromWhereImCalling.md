@@ -1,3 +1,4 @@
+[Back](/index.md) 
 # From Where I'm Calling (2017)
 ## Short prose, written for one voice
 You know I’m always here if you need to talk, so I’m going to tell it to you again, the way I always do. But first, like always, you have to promise me that there’s still no regrets, all right? I know this is the only way either of us are going to get to sleep, but you need to promise it to me again. Alright, so, for the hundredth time: Yes, I could have been the best boyfriend you ever had.

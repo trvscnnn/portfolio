@@ -1,4 +1,4 @@
-[Back](/index) 
+[Back](/index.md) 
 
 # Everybody Came to See The Horses
 I know it’s a lot to ask, I do, and I’m going to tell you why I need it. But, first I have to tell you about the time the horses came to town, okay? I know we’re only just meeting and this isn’t a usual thing, but it’s not a long story, and (there’s no two ways about this) if I don’t tell you about the horses you’re not going to understand anything about why I need to ask you to do this before we go out and get dinner.
@@ -35,4 +35,4 @@ The funeral for Mr. Toninato, I don’t know if you were there or not. It was on
 
 So, there you have it, that’s why I do it and why I can’t stop doing it even if I wanted to. It’s nothing sick or perverted. I can see how it sounds strange, I know it’s not usual, but that’s why. So if you wouldn’t mind, can you hop up in the chair? I’ll put on your cape and you’ll say “Honey, I’ve come undone. Touch my hair and send me on my way back to Jesus.” Please, just sit in the chair and say “I might have been born wrong, but honey I’m leaving with less than I came in with and I feel all the better for it.” Just, please, that’s all I’m asking, then we can go get dinner.
 
-[Back](/index) 
+[Back](/index.md) 
