@@ -1,6 +1,7 @@
 # Travis Cannon
 > ### Writer, comic, third noun.
-> #### Thanks for visiting my portfolio. Find here a selection of some of my writing across a few different formats, genres and registers. Each section has a brief introduction, the content and then a Lessons Learned section where I've recorded what was good (rose), what was difficult (thorn) and what I would do differently approaching the project again (seed). I hope you enjoy what you find here!<br> <br> <br>
+> #### Thanks for visiting my portfolio. Find here a selection of some of my writing across a few different formats, genres and registers. Each section has a brief introduction, the content and then a Lessons Learned section where I've recorded what was good (rose), what was difficult (thorn) and what I would do differently approaching the project again (seed). I hope you enjoy what you find here!<br>
+>[email](mailto:trvscnnn@gmail.com) - [linkedin](https://www.linkedin.com/in/travis-cannon-a51849165/) - [instagram](https://www.instagram.com/trvscnnn/?hl=en) <br> <br>
 
 ## WORK! Everybody does it, why can't you? (2018)
 ##### Read this for: an idea of how I write satire, how I mix sincerity and humour, how I explore a character's worldview, an idea of how job-searching might look to an NPC in a FromSoftware game.
@@ -21,9 +22,9 @@ A six-part series of career advice for job-seekers commissioned by the late Brun
 <br>
 
 **Rose**: This was a really gratifying project to work on. I was given a long leash to write whatever I wanted, and the sense of being trusted by the editors of the blog was very empowering even if the stakes weren't especially high. It was very creatively invigorating and stirred a strong desire to build an entire world around the strange, broken narrator of the pieces, but sadly there were bills to pay!
-
+<br>
 **Thorn**: Something I regret about this project is that I didn't have the resources to do quite as much multi-media trickery and hijinks as I would have liked to. I initially envisioned video components, audiolog-style guided meditations and (believe it or not) a painted comic portion. I knew that I wouldn't be able to execute at the level of quality that I wanted to with the time and resources that I had available though, so much of the vision was scaled back.
-
+<br>
 **Seed**: Given the opportunity to do it again, I'd like to have come at it more holistically instead of writing it on a per-post basis. The serialized format did produce some productive contraints, but I wonder how it might have gone differently had I a cleared vision of what I wanted the whole of it to look like.
 </details>
 
@@ -47,9 +48,9 @@ A considerable but productive constraint on this project was that the game was g
 <br>
 
 **Rose:** I loved working on this project. Coming up with quick tastes of unique characters was a really enjoyable exercise and plotting a slowly growing tenderness between the central triad was a surprisngly sweet experience.
-
+<br>
 **Thorn:** I regret that there wasn't better communication within the organization around what the goals, methods or status of this project was. I really would have liked to see it made into something more than a script, and I think it would have been a great prestige piece for the company.
-
+<br>
 **Seed**: Given the opportunity to do it again, I'd be more proactive about connecting with the people working on the project beyond my immediate team. It was one of the first times that Nutaku and the Paysites Creative team had collaborated, and there was still ambiguity around what our relationship with each other should be.
 </details>
 
@@ -66,8 +67,10 @@ Let's call it an experiment in collaborative world-building. I solicited my frie
 <br>
 
 **Rose:** A real thrill and a fond memory of sharing my writing with my friends in a way that didn't feel quite so pompous as a reading or high-pressure as a stand-up performance. A great reminded that social media can be a tool for fun(!!) sometimes.
+<br>
 
 **Thorn:** The experimental nature of generating the naps, accepting descriptions from anyone who wanted to submit one, means theres sometimes a bleakness or sadness that can be hard to square with the jokeyness of the project. Perhaps a compelling contrast thought! 
+<br>
 
 **Seed**: I would love to make something more of this project than a table or an instagram slideshow. I've toyed with the idea of making a zine or chapbook, but wonder if I've waited too long for it to feel worthwhile.
 </details>
@@ -90,7 +93,10 @@ A trio of character studies and monologues written to be performed at comedy sho
 <br>
 
 **Rose:** As always, I have a blast exploring the sad little corners of someone trying to hold it together. Someone who thinks they're maintaining but simply are not. These were all very fun to perform.
+<br>
 
 **Thorn:** As monologues the characters don't get to bounce off other personalities enough for my liking. A reminder of the positive friction of character and conflict.
+
+<br>
 
 **Seed**: What does it look like when these characters have to speak to one another? I want to see more of their worlds.</details>
