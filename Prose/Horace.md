@@ -1,4 +1,4 @@
-[Back](../index.md) 
+[Home](../index.md) 
 
 # Horace at the Wedding
 
@@ -22,4 +22,4 @@ They’re not as expensive as you might think they are, you know. Horses. Or, th
 	
 Big, itty-bitty, meaty, horse man, horse thigh, God's Eye... God's Eye. Where could that man be? It's spit in the eye to be this late for his wife. It's a hoof on the throat, a hoarse in the throat, a horse on the moment. Ahem. It's a moment on the horse on the lips of the horse, on a moment, on a lifetime on the-- 
 
-[Back](../index.md) 
+[Home](../index.md) 

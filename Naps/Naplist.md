@@ -1,4 +1,4 @@
-[Back](../index.md)
+[Home](../index.md)
 
 # Sleeper's Colloquy
 
@@ -27,8 +27,7 @@ Also it’s very hot in the apartment and instead of turning the heat down I jus
 |And when you fall asleep at work with your eyes open?|Taking the Mannequin’s Wage|
 |Post cheese plate wine nap ?|Taking the Curator’s Knee|
 |When you’re driving home at 6:30am from an overnight shift and everyone else is driving to work and you stop at a light and you only blink, but the next thing you know you wake up drifting into cross traffic?|Matador’s Somnambulance|
-|But I need to know:
-When I sleep in late, stay in bed until I’m starving, then need to take a nap after eating… y’know, to digest.|Callisto’s Spring Repose|
+|But I need to know: When I sleep in late, stay in bed until I’m starving, then need to take a nap after eating… y’know, to digest.|Callisto’s Spring Repose|
 |Shoes on, tshirt over face because no curtains, playlist of ann coulter’s radio interviews from this week going in the bg|Calibrating the Scales of Lady Justice|
 |What about when you wake up at 8am with views of being wholesomely occupied reading in bed all day BUT SUDDENLY going all asleep from 1 till 345pm and now u have to stressfully run around before shit closes at 5pm and u know ur next bedtime is pushed back indefinitely|Challenging the Tortoise to a Footrace|
 |Or a crying depression nap in a corner on the floor under a table in your asbestos ridden office|Minding the Adjunct’s Grave|
@@ -44,8 +43,7 @@ When I sleep in late, stay in bed until I’m starving, then need to take a nap 
 |When you eat an edible and pass out in your office chair|A Rolling Idyll on the Green|
 |Best nap for me is when you nap and wake up with your cats looking at you|Receiving the Blessing of Bastet|
 |Sweat nap|Returning from the Siren’s Grotto|
-|What about when I fall instantly into a super deep sleep and wake up the next day with my neck bent at a terrible angle lying on top of a completely dead arm
-And then I think I’ve killed my arm and have to hang it over the side of my bed in fear until the blood comes back|Tangling with the Night Wyrm|
+|What about when I fall instantly into a super deep sleep and wake up the next day with my neck bent at a terrible angle lying on top of a completely dead arm and then I think I’ve killed my arm and have to hang it over the side of my bed in fear until the blood comes back|Tangling with the Night Wyrm|
 |What about when you sleep for 3 days?|The Long Wet Kiss|
 |Nap wrapped in a dog hair covered towel reddened like a lobster from a bath that’s too hot that I just got out of. Over the covers|Visiting Cerberus at the Gates|
 |What’s the nap where you sit down on your bed mid-afternoon planning on innocently scrolling through Instagram for a few minutes and then suddenly you wake up and it’s pitch dark outside and in your room and you’re not sure what time it is, where or who you are|Rocking Narcissus’ Cradle|
@@ -80,4 +78,4 @@ And then I think I’ve killed my arm and have to hang it over the side of my be
 |Drunkenly napping at your kitche table while a frozen pizza burns in the oven|Coaxing the Devil from Under the Crust|
 |Messaging someone on an app and falling asleep before exchanging nudes|Plain Old-fashioned Good Luck|
 
-[Back](../index.md)
+[Home](../index.md)
