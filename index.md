@@ -62,7 +62,13 @@ A considerable but productive constraint on this project was that the game was g
 Let's call it an experiment in collaborative world-building. I solicited my friends and followers on Instagram to send me descriptions of types of naps, and told them I would tell them the True Name of that nap in exchange. What resulted was an extremely fun exercise in quickly, and repeatedly improvising in writing (two fields that I'd enjoyed apart but hadn't thought about trying in combination, very Reese's Peanut Butter Cups).
 
 ### Contents
-- [Sleeper's Colloquy](/Naps/Naplist.md)
+- [First night](/Naps/Naps1.md)
+- [Second night](/Naps/Naps2.md)
+- [Third night](/Naps/Naps3.md)
+- [Fourth night](/Naps/Naps4.md)
+- [Fifth night](/Naps/Naps5.md)
+- [Sixth night](/Naps/Naps6.md)
+
 <details><summary>Lessons learned </summary>
 <br>
 
@@ -96,7 +102,6 @@ A trio of character studies and monologues written to be performed at comedy sho
 <br>
 
 **Thorn:** As monologues the characters don't get to bounce off other personalities enough for my liking. A reminder of the positive friction of character and conflict.
-
 <br>
 
 **Seed**: What does it look like when these characters have to speak to one another? I want to see more of their worlds.</details>
