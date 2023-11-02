@@ -1,6 +1,6 @@
 
 | Back | [Home](../index.md) | [Next ](../Naps/Naps2.md) |
---: | --: | --:
+-- | -- | --
 
 # Sleeper's Colloquy
 
@@ -20,6 +20,6 @@
 |When you are visiting someone in a hospital and fall asleep miraculously on the small awkward chair you’ve been given|Keeping Grey’s Vigil|
 
 | Back | [Home](../index.md) | [Next ](../Naps/Naps2.md) |
---: | --: | --:
+-- | -- | --
 
 ![Normal man napping normally](../Naps/napassets/nap4.png)

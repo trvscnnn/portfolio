@@ -1,5 +1,5 @@
 | [Back](../Naps/Naps5.md) | [Home](../index.md) | Next |
---: | --: | --:
+-- | -- | --
 
 # Sleeper's Colloquy
 
@@ -19,6 +19,6 @@
 |Messaging someone on an app and falling asleep before exchanging nudes|Plain Old-fashioned Good Luck|
 
 | [Back](../Naps/Naps5.md) | [Home](../index.md) | Next |
---: | --: | --:
+-- | -- | --
 
-![Normal man napping normally](../Naps/napassets/nap9.png)
+![Normal man napping normally](../Naps/napassets/nap10.png)

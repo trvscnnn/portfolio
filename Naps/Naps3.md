@@ -1,5 +1,5 @@
 | [Back](../Naps/Naps2.md) | [Home](../index.md) | [Next ](../Naps/Naps4.md) |
---: | --: | --:
+-- | -- | --
 
 # Sleeper's Colloquy
 
@@ -19,6 +19,6 @@
 |Waking up to Netflix asking if you’re still watching a show you don’t remember turning on|Shepherd Drifting under Clouds|
 
 | [Back](../Naps/Naps2.md) | [Home](../index.md) | [Next ](../Naps/Naps4.md) |
---: | --: | --:
+-- | -- | --
 
 ![Normal man napping normally](../Naps/napassets/nap7.png)

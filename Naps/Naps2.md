@@ -1,5 +1,5 @@
 | [Back](../Naps/Naps1.md) | [Home](../index.md) | [Next ](../Naps/Naps3.md) |
---: | --: | --:
+-- | -- | --
 
 # Sleeper's Colloquy
 
@@ -19,6 +19,6 @@
 |Going to a theatre alone to see a loud action movie, falling asleep ten to fifteen minutes in and waking up once things start happening|Glossed Whedon|
 
 | [Back](../Naps/Naps1.md) | [Home](../index.md) | [Next ](../Naps/Naps3.md) |
---: | --: | --:
+-- | -- | --
 
 ![Normal man napping normally](../Naps/napassets/nap5.png)
