@@ -21,4 +21,4 @@
 | [Back](../Naps/Naps5.md) | [Home](../index.md) | Next |
 -- | -- | --
 
-![Normal man napping normally](../Naps/napassets/nap10.png)
+<img src="https://trvscnnn.github.io/portfolio/Naps/napassets/nap1.png" width="400" height="400">
