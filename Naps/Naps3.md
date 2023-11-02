@@ -21,4 +21,4 @@
 | [Back](../Naps/Naps2.md) | [Home](../index.md) | [Next ](../Naps/Naps4.md) |
 --: | --: | --:
 
-![Normal man napping normally](/Naps/napassets/nap7.png)
+![Normal man napping normally](../Naps/napassets/nap7.png)

@@ -17,9 +17,8 @@
 |Post cheese plate wine nap ?|Taking the Curator’s Knee|
 |When you’re driving home at 6:30am from an overnight shift and everyone else is driving to work and you stop at a light and you only blink, but the next thing you know you wake up drifting into cross traffic?|Matador’s Somnambulance|
 |Going to a theatre alone to see a loud action movie, falling asleep ten to fifteen minutes in and waking up once things start happening|Glossed Whedon|
----
 
 | [Back](../Naps/Naps1.md) | [Home](../index.md) | [Next ](../Naps/Naps3.md) |
 --: | --: | --:
 
-![Normal man napping normally](/Naps/napassets/nap5.png)
+![Normal man napping normally](../Naps/napassets/nap5.png)

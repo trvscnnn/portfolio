@@ -1,3 +1,4 @@
+
 | Back | [Home](../index.md) | [Next ](../Naps/Naps2.md) |
 --: | --: | --:
 
@@ -17,9 +18,8 @@
 |what about that nap when you fall asleep at your grandparent’s house on the couch while they are watching Coronation Street?|Being Knocked Cold by Granny’s Old Trumpet|
 |Cold medicine nap… when u wake up the interior of your nostrils are dry and crusted like the Sahara desert|Meeting the Scorn of the Sandman Made Cuckold|
 |When you are visiting someone in a hospital and fall asleep miraculously on the small awkward chair you’ve been given|Keeping Grey’s Vigil|
----
 
 | Back | [Home](../index.md) | [Next ](../Naps/Naps2.md) |
 --: | --: | --:
 
-![Normal man napping normally](/Naps/napassets/nap4.png)
+![Normal man napping normally](../Naps/napassets/nap4.png)
