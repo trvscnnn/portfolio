@@ -21,4 +21,4 @@
 | [Back](../Naps/Naps1.md) | [Home](../index.md) | [Next ](../Naps/Naps3.md) |
 -- | -- | --
 
-<img src="https://trvscnnn.github.io/portfolio/Naps/napassets/nap5.png" width="400" height="400">
+<img src="https://trvscnnn.github.io/portfolio/Naps/napassets/nap5.png" width="400" height="400" style="display: block; margin: 0 auto" />

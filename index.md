@@ -1,11 +1,3 @@
-img {
-    display:block;
-    float: none;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
 # Travis Cannon
 > ### Writer, comic, third noun.
 > #### Thanks for visiting my portfolio. Find here a selection of some of my writing across a few different formats, genres and registers. Each section has a brief introduction, the content and then a Lessons Learned section where I've recorded what was good (rose), what was difficult (thorn) and what I would do differently approaching the project again (seed). I hope you enjoy what you find here!<br>
@@ -21,7 +13,7 @@ img {
 ## WORK! Everybody does it, why can't you? (2018)
 ##### Read this for: an idea of how I write satire, how I mix sincerity and humour, how I explore a character's worldview, an idea of how job-searching might look to an NPC in a FromSoftware game.
 
-<img src="https://trvscnnn.github.io/portfolio/assets/wedwcy-top.png" width="400" height="400">
+<img src="https://trvscnnn.github.io/portfolio/assets/wedwcy-top.png" width="400" height="400" style="display: block; margin: 0 auto" />
 
 A six-part series of career advice for job-seekers commissioned by the late Brunch Club Comedy Blog, a blog run by an independent comedy production company. Emphasizes the importance of authenticity, being one's self, understanding one's self as something only temporarily granted by a high and unknowable authority, ignoring pro-canine propaganda, and most importantly being true to one's heart. Tonally, one should consider the tongue not just in the cheek but having started a settlement in the cheek and founded a bizarre arcane religion there.
 
@@ -48,7 +40,7 @@ A six-part series of career advice for job-seekers commissioned by the late Brun
 ## Crystal Warriors (2020)
 ##### Read this for: how I write dialogue, scene description and character relationships, some extremely scandalous puns and innuendos.
 
-<img src="https://trvscnnn.github.io/portfolio/assets/cryswarr-top.png" width="400" height="400">
+<img src="https://trvscnnn.github.io/portfolio/assets/cryswarr-top.png" width="400" height="400" style="display: block; margin: 0 auto" />
 
 **Content Warning:** *explicit sexual references, jokes and descriptions.*
 
@@ -76,7 +68,7 @@ A considerable but productive constraint on this project was that the game was g
 ## Sleeper's Colloquy (2019)
 ##### Read this for: a sense of my ability to iterate on a theme, inject humor and whimsy into *tired* subject matter, and generally playful approach to creativity.
 
-<img src="https://trvscnnn.github.io/portfolio/assets/sleeper.png" width="400" height="400">
+<img src="https://trvscnnn.github.io/portfolio/assets/sleeper.png" width="400" height="400" style="display: block; margin: 0 auto" />
 
 Let's call it an experiment in collaborative world-building. I solicited my friends and followers on Instagram to send me descriptions of types of naps, and told them I would tell them the True Name of that nap in exchange. What resulted was an extremely fun exercise in quickly, and repeatedly improvising in writing (two fields that I'd enjoyed apart but hadn't thought about trying in combination, very Reese's Peanut Butter Cups).
 
@@ -108,7 +100,7 @@ Let's call it an experiment in collaborative world-building. I solicited my frie
 
 ##### Read these for: My sense of character and idiosyncracy, flair for the dramatic and beguiling, the word 'horse' a shocking number of times.
 
-<img src="https://trvscnnn.github.io/portfolio/assets/monologues-top.png" width="400" height="400">
+<img src="https://trvscnnn.github.io/portfolio/assets/monologues-top.png" width="400" height="400" style="display: block; margin: 0 auto" />
 
 A trio of character studies and monologues written to be performed at comedy shows. 
 
