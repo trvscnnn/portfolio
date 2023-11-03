@@ -1,5 +1,3 @@
-[Home](../index.md)
-
 [WORK! Everybody does it, why can't you?](../WEDIWCY/wediwcy.md)
 # II. You think you’re better than everybody else?
 
@@ -42,5 +40,3 @@ Oh, please do not fret. Any employer worth their weight in salt will see right t
 Any time you feel unsure about yourself, just remember the type of degenerate you’re likely competing against. Even barring the preceding facts about their low moral character, the fact that you've taken the initiative to seek out my counsel puts you well ahead of the majority of candidates. Armed with my advice and your status as the lord's favorite child, the only things standing in the way of your new life as an employee are composing a resume, finding references, and interviewing for the job of your choosing. Join me in our next chapter, ["What have you done that's so special?"](../WEDIWCY/III.md) where we'll discuss how best to present your life and work experiences so as to dazzle your future employer.
 
 [Back](../WEDIWCY/wediwcy.md)
-
-[Home](../index.md)

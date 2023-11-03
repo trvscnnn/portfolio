@@ -1,5 +1,3 @@
-[Home](../index.md)
-
 [Back](../Prose/prose.md)
 
 # Everybody Came to See The Horses
@@ -36,7 +34,5 @@ I can’t tell you what it looked like. I wish I could. I wish, sometimes, that 
 The funeral for Mr. Toninato, I don’t know if you were there or not. It was on a Wednesday. It was sad, of course, and I was sad to be there, but then there was a thing that made me sadder. There was this horrible photograph from, I guess, his college days. And, I know you’re going to say this only jumped out at me because of my profession, because I’m trained to notice, but his hair in the photo… It was appalling. It was coming from his ears, from his cheeks, it was curly and dark and wrapped around his head like a mane. “Werewolfism.” Someone said to me, as though that were an explanation. “Not like in stories. Just means he was born hairy and wrong, I guess. Never went away. But so good, so sweet.” The casket, of course, was closed. 
 
 So, there you have it, that’s why I do it and why I can’t stop doing it even if I wanted to. It’s nothing sick or perverted. I can see how it sounds strange, I know it’s not usual, but that’s why. So if you wouldn’t mind, can you hop up in the chair? I’ll put on your cape and you’ll say “Honey, I’ve come undone. Touch my hair and send me on my way back to Jesus.” Please, just sit in the chair and say “I might have been born wrong, but honey I’m leaving with less than I came in with and I feel all the better for it.” Just, please, that’s all I’m asking, then we can go get dinner.
-
-[Home](../index.md)
 
 [Back](../Prose/prose.md)

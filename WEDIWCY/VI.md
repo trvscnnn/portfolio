@@ -1,5 +1,3 @@
-[Home](../index.md)
-
 [WORK! Everybody does it, why can't you?](../WEDIWCY/wediwcy.md)
 # VI. What Are You Waiting For?
 
@@ -46,5 +44,3 @@ You are part of something older now. You are a seeker sent out to find, as the f
 I hope that's helped.
 
 [Back](../WEDIWCY/wediwcy.md)
-
-[Home](../index.md)

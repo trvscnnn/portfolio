@@ -1,5 +1,3 @@
-[Home](../index.md)
-
 [Back](../Prose/prose.md)
 
 # Horace at the Wedding
@@ -23,7 +21,5 @@ Such a shame that the groom is running late, but I’ll tell you one things: one
 They’re not as expensive as you might think they are, you know. Horses. Or, they’re not as expensive as you might think given how incredible they are. If there’s one thing I know it’s that I’ve never met a horse what wasn’t on his way back to Jesus. That’s the one thing in this world that I’ll never skimp on. Every year I pay 30% of my annual salary to make it to the Kentucky Derby-- half of that is on the hat alone. And every year it’s worth it. Just to see those big meaty thighs racing around that track with those itty-bitty men on top just bouncing away. 
 	
 Big, itty-bitty, meaty, horse man, horse thigh, God's Eye... God's Eye. Where could that man be? It's spit in the eye to be this late for his wife. It's a hoof on the throat, a hoarse in the throat, a horse on the moment. Ahem. It's a moment on the horse on the lips of the horse, on a moment, on a lifetime on the-- 
-
-[Home](../index.md)
 
 [Back](../Prose/prose.md)

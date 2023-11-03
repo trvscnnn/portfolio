@@ -1,5 +1,3 @@
-[Home](../index.md)
-
 [WORK! Everybody does it, why can't you?](../WEDIWCY/wediwcy.md)
 # IV. On whose authority?
 
@@ -63,5 +61,3 @@ Remind them of their innate goodness by picking up a photo of their children (mo
 If you’re really painted into a corner, invent a referee yourself. Make sure that you have a thoroughly fleshed out characterization. Employers are wise and they’ll sniff out a poorly planned mirage before you’ve even had time to describe their [labyrinthine golden ringlets](../WEDIWCY/V.md).
 
 [Back](../WEDIWCY/wediwcy.md)
-
-[Home](../index.md)

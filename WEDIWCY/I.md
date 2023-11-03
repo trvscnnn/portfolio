@@ -1,5 +1,3 @@
-[Home](../index.md)
-
 [WORK! Everybody does it, why can't you?](../WEDIWCY/wediwcy.md)
 # I. Who do you think you are?
 
@@ -56,5 +54,3 @@ Try these...
 See, it's as easy as that! Now that you've got a captivating, authentic, and (most importantly) professional cover letter, you're almost ready to start working on a curriculum vitae (Latin for "Help me, I'm drowning!"). However, before we can responsibly move on to that, we'll be taking a quick detour inward to reaffirm just how good and special you are compared to the twitching wretches out there. So, please, join me in our next section ["You think you're better than everybody else?"](../WEDIWCY/II.md)
 
 [Back](../WEDIWCY/wediwcy.md)
-
-[Home](../index.md) 
