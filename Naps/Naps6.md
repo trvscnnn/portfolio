@@ -1,4 +1,4 @@
-[Previous](../Naps/naps5.md) | [Home](../index.md)
+[Previous](./naps5.md) | [Home](../index.md)
 
 # [Sleeper's Colloquy](../Naps/naps.md)
 
@@ -19,7 +19,7 @@
 
 <br>
 
-[Previous](../Naps/naps5.md) | [Home](../index.md)
+[Previous](./naps5.md) | [Home](../index.md)
 <br> <br>
 
 <img src="https://trvscnnn.github.io/portfolio/Naps/napassets/nap1.png" width="400" height="400" style="display: block; margin: 0 auto" />
