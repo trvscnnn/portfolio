@@ -1,5 +1,6 @@
-[Home](../index.md) 
+[Home](../index.md)
 
+[WORK! Everybody does it, why can't you?](../WEDIWCY/wediwcy.md)
 # III. What have you done that’s so special?
 
 **SHOW THEM THAT YOU'RE THE ONE. GIVE THEM PROOF THAT IT HASN'T ALL BEEN A NEUROCHEMICAL CON JOB.**
@@ -45,4 +46,6 @@ Now that you've punched up your resume to ensure you're telling the most desirab
 ## Help! HELP!!!
 The secret, rarely discussed beauty of employment is this: letting yourself help an employer is actually letting an employer help you! You need direction, purpose and a reliable means of acquiring food, and they need someone from whom they can extract labor to ultimately increase the personal wealth of their own respective employers! Employer and employee form a great and beautiful chain of being employed. It is a beautiful ouroboros; a glistening sixty-nine of beneficence. To partake in it is to know peace, to be without it is to know hell is cold and close. In any case, this natural order is something we'll discuss at greater length in our next chapter: [On whose authority?"](../WEDIWCY/IV.md)
 
-[Home](../index.md) 
+[Back](../WEDIWCY/wediwcy.md)
+
+[Home](../index.md)

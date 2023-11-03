@@ -1,7 +1,7 @@
-| [Back](../Naps/Naps1.md) | [Home](../index.md) | [Next ](../Naps/Naps3.md) |
--- | -- | --
+[Previous](../Naps/naps1.md) | [Home](../index.md) | [Next ](../Naps/Naps3.md)
+<br> <br>
 
-# Sleeper's Colloquy
+# [Sleeper's Colloquy](../Naps/naps.md)
 
 |Description| Nap name|
 ------------|----------
@@ -18,7 +18,9 @@
 |When you’re driving home at 6:30am from an overnight shift and everyone else is driving to work and you stop at a light and you only blink, but the next thing you know you wake up drifting into cross traffic?|Matador’s Somnambulance|
 |Going to a theatre alone to see a loud action movie, falling asleep ten to fifteen minutes in and waking up once things start happening|Glossed Whedon|
 
-| [Back](../Naps/Naps1.md) | [Home](../index.md) | [Next ](../Naps/Naps3.md) |
--- | -- | --
+<br>
+
+[Previous](../Naps/naps1.md) | [Home](../index.md) | [Next ](../Naps/Naps3.md)
+<br> <br>
 
 <img src="https://trvscnnn.github.io/portfolio/Naps/napassets/nap5.png" width="400" height="400" style="display: block; margin: 0 auto" />

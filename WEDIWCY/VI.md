@@ -1,5 +1,6 @@
-[Home](../index.md) 
+[Home](../index.md)
 
+[WORK! Everybody does it, why can't you?](../WEDIWCY/wediwcy.md)
 # VI. What Are You Waiting For?
 
 Well, congratulations. You’ve done it. You did everything right. You have rendered yourself up for judgment, brought your son to the top of the mountain and presented the sacrificial knife to the quiet eye above. Your devotion can be neither denied nor renounced. If there’s any justice in the universe, the job should be yours! I’ll bet you’re feeling incredible. Don't worry, you should! You've come a long way from where you were when you began, and surely that must count for something.
@@ -44,4 +45,6 @@ You are part of something older now. You are a seeker sent out to find, as the f
 
 I hope that's helped.
 
-[Home](../index.md) 
+[Back](../WEDIWCY/wediwcy.md)
+
+[Home](../index.md)

@@ -1,7 +1,6 @@
-| [Back](../Naps/Naps5.md) | [Home](../index.md) | Next |
--- | -- | --
+[Previous](../Naps/naps5.md) | [Home](../index.md)
 
-# Sleeper's Colloquy
+# [Sleeper's Colloquy](../Naps/naps.md)
 
 |Description| Nap name|
 ------------|----------
@@ -18,7 +17,9 @@
 |Sleeping in the back of a cab on the way home from a night out.|Touring the Unfamiliar Arrondisement|
 |Messaging someone on an app and falling asleep before exchanging nudes|Plain Old-fashioned Good Luck|
 
-| [Back](../Naps/Naps5.md) | [Home](../index.md) | Next |
--- | -- | --
+<br>
+
+[Previous](../Naps/naps5.md) | [Home](../index.md)
+<br> <br>
 
 <img src="https://trvscnnn.github.io/portfolio/Naps/napassets/nap1.png" width="400" height="400" style="display: block; margin: 0 auto" />

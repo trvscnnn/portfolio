@@ -1,8 +1,7 @@
+[Home](../index.md) | [Next ](../Naps/Naps2.md)
+<br> <br>
 
-| Back | [Home](../index.md) | [Next ](../Naps/Naps2.md) |
--- | -- | --
-
-# Sleeper's Colloquy
+# [Sleeper's Colloquy](../Naps/naps.md)
 
 |Description| Nap name|
 ------------|:----------:
@@ -19,7 +18,9 @@
 |Cold medicine nap… when u wake up the interior of your nostrils are dry and crusted like the Sahara desert|Meeting the Scorn of the Sandman Made Cuckold|
 |When you are visiting someone in a hospital and fall asleep miraculously on the small awkward chair you’ve been given|Keeping Grey’s Vigil|
 
-| Back | [Home](../index.md) | [Next ](../Naps/Naps2.md) |
--- | -- | --
+<br>
+
+[Home](../index.md) | [Next ](../Naps/Naps2.md)
+<br> <br>
 
 <img src="https://trvscnnn.github.io/portfolio/Naps/napassets/nap4.png" width="400" height="400" style="display: block; margin: 0 auto" />

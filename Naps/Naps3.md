@@ -1,7 +1,6 @@
-| [Back](../Naps/Naps2.md) | [Home](../index.md) | [Next ](../Naps/Naps4.md) |
--- | -- | --
+[Previous](../Naps/naps2.md) | [Home](../index.md) | [Next ](../Naps/Naps4.md)
 
-# Sleeper's Colloquy
+# [Sleeper's Colloquy](../Naps/naps.md)
 
 |Description| Nap name|
 ------------|----------
@@ -18,8 +17,10 @@
 |What about when you have a lot of work to do but you tell yourself you’re “just going to take a quick nap” even though it’s 2am and you know in your heart you’re just going to sleep|Entering the Confessional of the False Prophet|
 |Waking up to Netflix asking if you’re still watching a show you don’t remember turning on|Shepherd Drifting under Clouds|
 
-| [Back](../Naps/Naps2.md) | [Home](../index.md) | [Next ](../Naps/Naps4.md) |
--- | -- | --
+<br>
+
+[Previous](../Naps/naps2.md) | [Home](../index.md) | [Next ](../Naps/Naps4.md)
+<br> <br>
 
 <img src="https://trvscnnn.github.io/portfolio/Naps/napassets/nap7.png" width="400" height="400" style="display: block; margin: 0 auto" />
 

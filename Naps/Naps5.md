@@ -1,7 +1,6 @@
-| [Back](../Naps/Naps4.md) | [Home](../index.md) | [Next ](../Naps/Naps6.md) |
--- | -- | --
+[Previous](../Naps/naps4.md) | [Home](../index.md) | [Next ](../Naps/Naps6.md)
 
-# Sleeper's Colloquy
+# [Sleeper's Colloquy](../Naps/naps.md)
 
 |Description| Nap name|
 ------------|----------
@@ -18,7 +17,9 @@
 |That thing where you wake up from a nap and your mouth tastes and feels disgusting|Suckling at Satan's Bitter Dugs|
 |Drunkenly napping at your kitche table while a frozen pizza burns in the oven|Coaxing the Devil from Under the Crust|
 
-| [Back](../Naps/Naps4.md) | [Home](../index.md) | [Next ](../Naps/Naps6.md) |
--- | -- | --
+<br>
+
+[Previous](../Naps/naps4.md) | [Home](../index.md) | [Next ](../Naps/Naps6.md)
+<br> <br>
 
 <img src="https://trvscnnn.github.io/portfolio/Naps/napassets/nap10.png" width="400" height="400" style="display: block; margin: 0 auto" />

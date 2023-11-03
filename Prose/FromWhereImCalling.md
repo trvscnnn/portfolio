@@ -1,4 +1,7 @@
-[Home](../index.md) 
+[Home](../index.md)
+
+[Back](../Prose/prose.md)
+
 # From Where I'm Calling (2017)
 ## Short prose, written for one voice
 You know I’m always here if you need to talk, so I’m going to tell it to you again, the way I always do. But first, like always, you have to promise me that there’s still no regrets, all right? I know this is the only way either of us are going to get to sleep, but you need to promise it to me again. Alright, so, for the hundredth time: Yes, I could have been the best boyfriend you ever had.
@@ -30,3 +33,5 @@ You know, I’m sure, that we’re getting close to the end. That I’ve almost 
 I know I’ve gotten out of hand. Let me get back to what you’re calling to hear. Honey, I could have been the best boyfriend you ever had, but we both know at the end of the day there’s a gulf between could and would that all the bridges in Paris couldn’t span. Not even close. So try not to think too hard about the past. We made a promise, right: no regrets, and I’m trying as hard as I can to keep that up on my end. But that said: honey, give me a call when you get tired of talking, because we both know you’ve got my number, and like I always tell you: where I’m going, it’s never too late to call.
 
 [Home](../index.md)
+
+[Back](../Prose/prose.md)

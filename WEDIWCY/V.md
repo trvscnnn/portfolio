@@ -1,5 +1,6 @@
-[Home](../index.md) 
+[Home](../index.md)
 
+[WORK! Everybody does it, why can't you?](../WEDIWCY/wediwcy.md)
 # V. Who do you think you're talking to?
 
 You’ve done everything right. Your references are immaculate, your resume is pristine, and your confidence has never been higher. All that stands between you and a new life of peace and ease is your first face-to-face meeting with the employer. Too often, I hear horror stories of job-seekers squandering all of the hard work they’ve put in so far by overthinking the interview process. Interviews aren't a science, there are no perfect answers. The most important thing that you can do is be yourself. However, there's no harm in throwing a playful shade over the bare bulb of the spirit! (Everything in moderation, even the blistering light of truth.) Let's explore how to ensure the shadows you cast across the landscape of yourself are flattering.
@@ -52,4 +53,6 @@ In closing, perhaps a final word on the interview process: it is important to re
 
 Think of the task as a sort of embalming of the self. Your past lays before you on the slab, dressed in an oiled and perfumed shroud that obscures all but the most dramatic peaks and valleys. You are the skilled hand tasked with taking this heap of dull matter and fashioning, however fleeting, the illusion of life. Give yourself over to the process and discover which parts of the self you harbor in your heart are invisible to the adjudicating eye. Knead the loose flesh, paint its sinking cheeks and lips with the blush of youth. Stir the hair to give the illusion of something just in from a gale. When the time comes and you are at last called upon, pull back the sheet and reveal at last that you've been laboring over a mirror; you've become, without even realizing, that which you've hoped to be. You are, at last, [all that you've pretended](../WEDIWCY/VI.md).
 
-[Home](../index.md) 
+[Back](../WEDIWCY/wediwcy.md)
+
+[Home](../index.md)
