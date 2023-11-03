@@ -1,5 +1,4 @@
 | [Next ](./Naps2.md)
-<br> <br>
 
 # [Sleeper's Colloquy](../Naps/naps.md)
 
