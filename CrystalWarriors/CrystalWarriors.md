@@ -9,10 +9,10 @@ Written for Mindgeek’s gaming division (Nutaku) this is the scenario text for 
 
 A considerable but productive constraint on this project was that the game was going to be an asset swap of an existing game, meaning the scenario had to follow the existing arc of the base game and that the new characters would have dialogue at the same point as their analogs. This created interesting but not insurmountable challenges as I found ways to write conversations around “who’s-speaking-when” rather than “who’s-speaking-why”.  This is the reason the characters in this script retain the names of their female counterparts in the original game.
 ### Contents
-- [I. 00 - 10: Introductions through to first boss](/CrystalWarriors/0010.md)
-- [II. 11 - 20: Meeting new friends and forging on](/CrystalWarriors/1120.md)
-- [III. 21 - 30: Through the tundra, up the mountain](/CrystalWarriors/2130.md)
-- [IV. 31 - 40: Wildlife, wiled life, wild life](/CrystalWarriors/3140.md)
+- [I. 00 - 10: Introductions through to first boss](../CrystalWarriors/0010.md)
+- [II. 11 - 20: Meeting new friends and forging on](../CrystalWarriors/1120.md)
+- [III. 21 - 30: Through the tundra, up the mountain](../CrystalWarriors/2130.md)
+- [IV. 31 - 40: Wildlife, wiled life, wild life](../CrystalWarriors/3140.md)
 
 
 <br>

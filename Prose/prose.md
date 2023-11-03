@@ -9,9 +9,9 @@
 A trio of character studies and monologues written to be performed at comedy shows. 
 
 ### Contents
-- [From Where I'm Calling (2017)](/Prose/FromWhereImCalling.md)
-- [Everybody Came to See the Horses (2018)](/Prose/Horses.md)
-- [Horace at the Wedding (2019)](/Prose/Horace.md)
+- [From Where I'm Calling (2017)](../Prose/FromWhereImCalling.md)
+- [Everybody Came to See the Horses (2018)](../Prose/Horses.md)
+- [Horace at the Wedding (2019)](../Prose/Horace.md)
 <br>
 
 **Rose:** As always, I have a blast exploring the sad little corners of someone trying to hold it together. Someone who thinks they're maintaining but simply are not. These were all very fun to perform.

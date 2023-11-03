@@ -6,12 +6,12 @@
 Let's call it an experiment in collaborative world-building. I solicited my friends and followers on Instagram to send me descriptions of types of naps, and told them I would tell them the True Name of that nap in exchange. What resulted was an extremely fun exercise in quickly, and repeatedly improvising in writing (two fields that I'd enjoyed apart but hadn't thought about trying in combination, very Reese's Peanut Butter Cups).
 
 ### Contents
-- [First night](/Naps/Naps1.md)
-- [Second night](/Naps/Naps2.md)
-- [Third night](/Naps/Naps3.md)
-- [Fourth night](/Naps/Naps4.md)
-- [Fifth night](/Naps/Naps5.md)
-- [Sixth night](/Naps/Naps6.md)
+- [First night](../Naps/Naps1.md)
+- [Second night](../Naps/Naps2.md)
+- [Third night](../Naps/Naps3.md)
+- [Fourth night](../Naps/Naps4.md)
+- [Fifth night](../Naps/Naps5.md)
+- [Sixth night](../Naps/Naps6.md)
 
 <br>
 

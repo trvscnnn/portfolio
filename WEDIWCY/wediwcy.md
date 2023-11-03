@@ -6,12 +6,12 @@
 A six-part series of career advice for job-seekers commissioned by the late Brunch Club Comedy Blog, a blog run by an independent comedy production company. Emphasizes the importance of authenticity, being one's self, understanding one's self as something only temporarily granted by a high and unknowable authority, ignoring pro-canine propaganda, and most importantly being true to one's heart. Tonally, one should consider the tongue not just in the cheek but having started a settlement in the cheek and founded a bizarre arcane religion there.
 
 ### Contents
-- [I. Who do you think you are?](/WEDIWCY/I.md)
-- [II. You think you're better than everybody else?](/WEDIWCY/II.md)
-- [III. What have you done that's so special?](/WEDIWCY/III.md)
-- [IV. On whose authority?](/WEDIWCY/IV.md)
-- [V. Who do you think you're talking to?](/WEDIWCY/V.md)
-- [VI. What are you waiting for?](/WEDIWCY/VI.md)
+- [I. Who do you think you are?](../WEDIWCY/I.md)
+- [II. You think you're better than everybody else?](../WEDIWCY/II.md)
+- [III. What have you done that's so special?](../WEDIWCY/III.md)
+- [IV. On whose authority?](../WEDIWCY/IV.md)
+- [V. Who do you think you're talking to?](../WEDIWCY/V.md)
+- [VI. What are you waiting for?](../WEDIWCY/VI.md)
 
 
 <br>
