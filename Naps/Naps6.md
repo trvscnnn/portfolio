@@ -23,4 +23,4 @@
 
 <br> <br>
 
-<img src="https://trvscnnn.github.io/portfolio/Naps/napassets/nap1.png" width="400" height="400" style="display: block; margin: 0 auto" />
+<img src="https://trvscnnn.github.io/portfolio/Naps/napassets/nappicr06.png" width="400" height="400" style="display: block; margin: 0 auto" />
