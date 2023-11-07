@@ -72,10 +72,10 @@
 
 <h2>Projects</h2>
 <ul>
-  <li><a href="/WEDIWCY/wediwcy.md">Work! Everybody does it, why can't you?</a> (Long form satire)</li>
-  <li><a href="/CrystalWarriors/CrystalWarriors.md">Crystal Warriors</a> (Game writing)</li>
-  <li><a href="/Naps/naps.md">Sleeper's Colloquy</a> (Experimental poetry)</li>
-  <li><a href="/Prose/prose.md">Monologues and character pieces</a> (Prose)</li>
+  <li><a href="https://trvscnnn.github.io/portfolio/WEDIWCY/wediwcy">Work! Everybody does it, why can't you?</a> (Long form satire)</li>
+  <li><a href="https://trvscnnn.github.io/portfolio/CrystalWarriors/CrystalWarriors.md">Crystal Warriors</a> (Game writing)</li>
+  <li><a href="https://trvscnnn.github.io/portfolio/Naps/naps.md">Sleeper's Colloquy</a> (Experimental poetry)</li>
+  <li><a href="https://trvscnnn.github.io/portfolio/Prose/prose.md">Monologues and character pieces</a> (Prose)</li>
 </ul>
 
 </body>
